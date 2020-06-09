@@ -7,12 +7,12 @@ Also included are sample exact embeddings for five well-known networks.
 
 ## Links to Data Sets
 
-[Cora] (https://linqs-data.soe.ucsc.edu/public/lbc/cora.tgz)
+[Cora](https://linqs-data.soe.ucsc.edu/public/lbc/cora.tgz)
 
-[Citeseer] (https://linqs-data.soe.ucsc.edu/public/lbc/citeseer.tgz)
+[Citeseer](https://linqs-data.soe.ucsc.edu/public/lbc/citeseer.tgz)
 
 [BlogCatalog](http://leitang.net/code/social-dimension/data/blogcatalog.mat)
 
-[ca-HepPh] (https://snap.stanford.edu/data/ca-HepPh.txt.gz)
+[ca-HepPh](https://snap.stanford.edu/data/ca-HepPh.txt.gz)
 
 [PubMed](https://linqs-data.soe.ucsc.edu/public/Pubmed-Diabetes.tgz)
