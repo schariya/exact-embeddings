@@ -1,7 +1,7 @@
 # Exact Embeddings
 
 This is a Jupyter demo of our LPCA algorithm for exact low-dimensional representations of networks, as described in our paper:
-[Node Embeddings and Exact Low-Rank Representations of Complex Networks](https://arxiv.org/)
+[Node Embeddings and Exact Low-Rank Representations of Complex Networks](http://arxiv.org/abs/2006.05592)
 
 Also included are sample exact embeddings for five well-known networks.
 
